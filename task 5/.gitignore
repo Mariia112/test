@@ -1,0 +1,6 @@
+/task 5/
+/vendor/
+.idea/
+*.log
+*.env
+.DS_Store
